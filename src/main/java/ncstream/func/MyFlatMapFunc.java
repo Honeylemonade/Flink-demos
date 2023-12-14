@@ -1,4 +1,4 @@
-package spendreport.func;
+package ncstream.func;
 
 import org.apache.flink.api.common.functions.FlatMapFunction;
 import org.apache.flink.util.Collector;

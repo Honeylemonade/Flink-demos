@@ -1,4 +1,4 @@
-package spendreport.func;
+package ncstream.func;
 
 import org.apache.flink.api.java.functions.KeySelector;
 import org.apache.flink.api.java.tuple.Tuple2;
